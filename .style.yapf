@@ -1,0 +1,10 @@
+[style]
+arithmetic_precedence_indication = true
+blank_lines_around_top_level_definition = 1
+coalesce_brackets = true
+column_limit = 80
+dedent_closing_brackets = true
+indent_blank_lines = true
+indent_width = 2
+join_multiple_lines = false
+spaces_before_comment = 16, 24, 32, 40, 48, 56, 64, 72, 80
